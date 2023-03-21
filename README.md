@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SripathiVamsi-krishna
-- 👀 Python Learner, Artificial Intelligence Enthusiasits
+- 👀 Python and Java Learner, Artificial Intelligence Enthusiasits
 - 🌱 I’m currently learning cloud services
 
 
